@@ -1,2 +1,3 @@
 # gettingStartedWithGIT
-and away we go
+and away we go ... 
+what next?
